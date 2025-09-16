@@ -13,6 +13,17 @@ public class Day9 {
         Nim = "D0224025";
         kelas = 'C';
 
+
+        System.out.println("nama mahasiswa : " + nama);
+        System.out.println("Prodi pilihan : " + prodi);
+        System.out.println("Nim Mahasiswa : " + Nim);
+        System.out.println("Kelas  : " + kelas);
+        System.out.println();
+
+        nama = "iball";
+        prodi = "Informatika";
+        kelas = 'A';
+
         System.out.println("nama mahasiswa : " + nama);
         System.out.println("Prodi pilihan : " + prodi);
         System.out.println("Nim Mahasiswa : " + Nim);
